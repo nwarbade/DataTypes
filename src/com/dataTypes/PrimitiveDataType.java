@@ -6,7 +6,7 @@ public class PrimitiveDataType {
 		
 		// Data type   Variable  = Value;
 		
-		boolean b = false;
+		boolean b = false;  // the boolean data type is used to represent a value that can either be true or false
 		byte e = -123;
 		short f = 3213;
 		int i = 213454;
